@@ -4,9 +4,9 @@
 
 <p align="left">
       <a href="https://www.linkedin.com/in/miguelpereira2135">
-         <img alt="linkedin" title="miguelpereira2135" src="https://custom-icon-badges.demolab.com/badge/-joaosilva01-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
+         <img alt="linkedin" title="miguelpereira2135" src="https://custom-icon-badges.demolab.com/badge/-miguelpereira2135-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
       <a href="https://www.instagram.com/miguelpereira21_/">
-         <img alt="intagram" title="@miguelpereira21_" src="https://custom-icon-badges.demolab.com/badge/-joao_manuel7-ea4aaa?style=for-the-badge&logo=instagram&logoColor=white"/></a> 
+         <img alt="intagram" title="@miguelpereira21_" src="https://custom-icon-badges.demolab.com/badge/-miguelpereira21_-ea4aaa?style=for-the-badge&logo=instagram&logoColor=white"/></a> 
       <a href="mailto:miguelpereira00007@gmail.com">
          <img alt="email" title="email" src="https://custom-icon-badges.demolab.com/badge/-contact%20me-c71610?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
    </p>
