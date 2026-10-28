@@ -49,9 +49,7 @@ I'm a Telecommunications and Computer Engineering finalist at the University of 
 
 ## 🖥️ Some of my projects
 
-- [University - an overview of my academic path](https://github.com/jmns01/University)
-- [ExpenseTracker - a C# application with SQL databases](https://github.com/jmns01/ExpenseTracker)
-- [ATtiny85 sketches - My variouse sketches for a Digistump ATtiny85 board](https://github.com/jmns01/ATtiny85-MySketches)
+-
 
 #
 
